@@ -19,8 +19,8 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 (ii) To find the LU Decomposition of a matrix
-```
-<img width="660" height="687" alt="image" src="https://github.com/user-attachments/assets/8bc59979-d08e-4caa-884b-56e7113c3013" />
+<img width="608" height="677" alt="image" src="https://github.com/user-attachments/assets/ad3d86ae-2c41-4187-bc62-e7b3683de6df" />
+
 
 
 ## Output:
